@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Week5 level test",
+"productVersion": "0.1",
+"dataUrl": "Tianyu Sun-Week5 Level Test.data.unityweb",
+"wasmCodeUrl": "Tianyu Sun-Week5 Level Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tianyu Sun-Week5 Level Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1c1"
+}
